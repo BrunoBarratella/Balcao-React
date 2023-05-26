@@ -1,0 +1,6 @@
+.imagemMulher{
+  background: url(../img/trabalhador.png), url(../img/blue-watercolor-brush-splash-stain-png.png);
+    background-repeat: no-repeat;
+    background-position-x: right;
+    background-size: contain;
+}

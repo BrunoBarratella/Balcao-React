@@ -1,0 +1,9 @@
+.btn{
+  @apply py-0.5 px-8 text-white rounded-md;
+}
+.textBanner{
+  @apply text-white font-bold font-Poppins w-full text-center;
+}
+.linkSearchBox{
+  @apply flex items-center text-xl text-white font-Poppins font-medium bg-botaoBusca py-0.5 px-2;
+}
